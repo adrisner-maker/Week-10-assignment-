@@ -1,0 +1,18 @@
+{
+  "name": "yippee",
+  "preferences": {
+    "movies": "minion movie"
+  },
+  "silly": "true",
+  "interests": [
+    "happiness",
+    "fun",
+    "excitement"
+  ],
+  "preferred_language": "en",
+  "communication_style": "informal",
+  "favorites": [
+    "yippee",
+    "cheers"
+  ]
+}
